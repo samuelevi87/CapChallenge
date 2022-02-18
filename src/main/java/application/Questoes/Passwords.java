@@ -1,4 +1,4 @@
-package Questoes;
+package main.java.application.Questoes;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
